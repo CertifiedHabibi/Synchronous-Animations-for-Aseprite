@@ -128,7 +128,7 @@ Found something that's not quite working right or do you have a feature request?
 
 ## 💾 Installation
 
-Install the latest release from **[GitHub Releases](https://github.com/CertifiedHabibi/Synchronous-Animations-for-Aseprite/releases)**
+Install the latest release **(the .lua file)** from **[GitHub Releases](https://github.com/CertifiedHabibi/Synchronous-Animations-for-Aseprite/releases)**
 
 Open the scripts folder under **File > Scripts** and place the script there.
 
