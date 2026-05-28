@@ -22,7 +22,7 @@ Here are 2 separately animated pieces that I would like to sync. (After putting 
 <br/>
 <p align="center">
 <img src="images/WelcomeSign.gif" alt="Welcome Sign Animation"><br/>
- <i>A welcome sign animation with 4 frames. 
+ <i>A welcome sign animation with 4 frames. <br/>
 Frame 1 - 3000ms <br/>
 Frame 2 - 50ms <br/>
 Frame 3 - 75ms <br/>
